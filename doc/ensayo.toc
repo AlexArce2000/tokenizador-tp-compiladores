@@ -1,0 +1,37 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Desarrollo}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Descripción del algoritmo}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Autómata Finito Determinista (AFD)}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Tokenización}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Análisis de Sentimiento}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Verificación del Protocolo de Atención}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}Estructura de Datos}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.6}Salida de Resultados}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Decisiones Tomadas}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Selección de un AFD}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Definición de Estados y Transiciones}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Implementación de la Tokenización}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Verificación del Protocolo}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Salida y Visualización de Resultados}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Alcance del Proyecto}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Clasificación de Lexemas}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Análisis de Sentimientos}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Verificación de Protocolos de Atención}{5}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Manejo de palabras no clasificadas}{6}{}%
+\contentsline {subsubsection}{\numberline {2.3.5}Generación de Informes}{6}{}%
+\contentsline {subsection}{\numberline {2.4}Estrategias Aplicadas}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Desarrollo Modular}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Uso de AFD para Eficiencia}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}Implementación de Tablas de Sentimientos}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.4}Recopilación de Datos y Mejora Continua}{6}{}%
+\contentsline {subsubsection}{\numberline {2.4.5}Validación de Resultados}{6}{}%
+\contentsline {subsection}{\numberline {2.5}Código Fuente}{7}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}Clase AFD}{8}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}Clase TokenizadorAFD}{10}{}%
+\contentsline {subsubsection}{\numberline {2.5.3} Análisis de Sentimientos y Verificación de Protocolo}{13}{}%
+\contentsline {subsubsection}{\numberline {2.5.4}Clase Manejo de Tabla de Sentimientos}{16}{}%
+\contentsline {subsubsection}{\numberline {2.5.5}Gestión de Sentimientos}{18}{}%
+\contentsline {subsubsection}{\numberline {2.5.6}Función principal}{20}{}%
+\contentsline {section}{\numberline {3}Conclusión}{25}{}%

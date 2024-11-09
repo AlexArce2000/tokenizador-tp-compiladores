@@ -1,0 +1,9 @@
+Sentimiento general: Negativo
+Puntaje total: -8
+Palabras positivas: ['rápido', 'bien', 'paciencia', 'confío', 'bien', 'solución', 'paciencia']
+Palabras negativas: ['desastre', 'broma', 'inaceptable', 'problema', 'frustración', 'problema', 'pésimo', 'ridículo', 'problema']
+Verificación del protocolo de Atención (Agente):
+ - Saludo: OK
+ - Identificación: OK
+ - Despedida: OK
+ - Palabras rudas: Ninguna detectada
