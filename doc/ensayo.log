@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.5)  10 NOV 2024 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.5)  10 NOV 2024 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -871,193 +871,193 @@ LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 2
  (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [7{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}] [8]
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 355--355
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 354--354
 []                \OT1/lmtt/m/n/12 data['transiciones'][self.estado_inicial][transicion] = estado[] 
  []
 
 
-Overfull \hbox (61.03389pt too wide) in paragraph at lines 357--357
+Overfull \hbox (61.03389pt too wide) in paragraph at lines 356--356
 []        \OT1/lmtt/m/n/12 with open(os.path.join("output",filename), 'w', encoding='utf-8') as f:[] 
  []
 
 
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 365--365
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 364--364
 []                    \OT1/lmtt/m/n/12 for lexema in self.transiciones[self.estado_inicial][] 
  []
 
 
-Overfull \hbox (67.2089pt too wide) in paragraph at lines 366--366
+Overfull \hbox (67.2089pt too wide) in paragraph at lines 365--365
 []                    \OT1/lmtt/m/n/12 if self.transiciones[self.estado_inicial][lexema] == estado][] 
  []
 
 [9]
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 399--399
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 398--398
 []        \OT1/lmtt/m/n/12 with open(os.path.join("data", archivo), "r", encoding="utf-8") as f:[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 411--411
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 410--410
 []        \OT1/lmtt/m/n/12 with open(os.path.join("data",archivo),"r",encoding="utf-8") as f:[] 
  []
 
 
-Overfull \hbox (11.63387pt too wide) in paragraph at lines 431--431
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 430--430
 []        \OT1/lmtt/m/n/12 identificaciones = self.cargar_palabras("identificaciones.txt")[] 
  []
 
 
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 433--433
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 432--432
 []        \OT1/lmtt/m/n/12 palabras_prohibidas = self.cargar_palabras("palabras_prohibidas.txt")[] 
  []
 
 
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 435--435
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 434--434
 []                    \OT1/lmtt/m/n/12 self.cargar_palabras_y_puntajes("palabras_y_puntajes.txt")[] 
  []
 
 [10]
-Overfull \hbox (5.45886pt too wide) in paragraph at lines 438--438
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 437--437
 []            \OT1/lmtt/m/n/12 afd.agregar_transicion(estado_inicial, saludo, "q_SALUDO")[] 
  []
 
 
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 470--470
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 469--469
 []                \OT1/lmtt/m/n/12 print(f"Lexema aceptado: [{lexema}] se detecto como {estado}")[] 
  []
 
 [11]
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 485--485
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 484--484
 []                \OT1/lmtt/m/n/12 self.afd.transiciones_usadas[error_estado].append(lexema)[] 
  []
 
 
-Overfull \hbox (2.77106pt too wide) in paragraph at lines 496--497
+Overfull \hbox (2.77106pt too wide) in paragraph at lines 495--496
 []\OT1/lmr/bx/n/12 Inicializaci^^Son: \OT1/lmr/m/n/12 La cla-se \OT1/lmtt/m/n/12 TokenizadorAFD \OT1/lmr/m/n/12 se ini-cia-li-za crean-do el aut^^Soma-
  []
 
 [12] [13]
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 573--573
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 571--571
 []            \OT1/lmtt/m/n/12 mensaje_agente.append(lexema.split("agente:", 1)[1].strip())[] 
  []
 
 
-Overfull \hbox (42.50888pt too wide) in paragraph at lines 576--576
+Overfull \hbox (42.50888pt too wide) in paragraph at lines 574--574
 []            \OT1/lmtt/m/n/12 procesar_mensaje_agente(mensaje_agente, tokenizador, resultados)[] 
  []
 
 
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 583--583
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 581--581
 []        \OT1/lmtt/m/n/12 procesar_mensaje_agente(mensaje_agente, tokenizador, resultados)[] 
  []
 
 LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 607.
+(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 605.
 [14]
-Overfull \hbox (8.7625pt too wide) in paragraph at lines 619--620
+Overfull \hbox (8.7625pt too wide) in paragraph at lines 617--618
 []\OT1/lmr/m/n/12 Se re-vi-sa ca-da le-xe-ma pa-ra ve-ri-fi-car si per-te-ne-ce al es-ta-do \OT1/lmtt/m/n/12 q[]PALABRA[]PROHIBIDA\OT1/lmr/m/n/12 ,
  []
 
 
-Overfull \hbox (7.18118pt too wide) in paragraph at lines 643--644
+Overfull \hbox (7.18118pt too wide) in paragraph at lines 641--642
 []\OT1/lmr/m/n/12 Para ca-da seg-men-to del agen-te, se lla-ma a la fun-ci^^Son \OT1/lmtt/m/n/12 procesar[]mensaje[]agente\OT1/lmr/m/n/12 . 
  []
 
 [15]
-Overfull \hbox (8.00644pt too wide) in paragraph at lines 659--660
+Overfull \hbox (8.00644pt too wide) in paragraph at lines 657--658
 \OT1/lmr/m/n/12 pro-to-co-lo (\OT1/lmtt/m/n/12 q[]SALUDO\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 q[]IDENTIFICACION\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 q[]DESPEDIDA\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 q[]PALABRA[]PROHIBIDA\OT1/lmr/m/n/12 ). 
  []
 
 [16] [17]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 735.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 733.
  (C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 758--758
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 756--756
 []        \OT1/lmtt/m/n/12 with open(os.path.join("data", archivo), "r", encoding="utf-8") as f:[] 
  []
 
 
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 761--761
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 759--759
 []                \OT1/lmtt/m/n/12 tabla_sentimientos.agregar_palabra(palabra, int(puntaje))[] 
  []
 
 [18{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 778--778
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 776--776
 []        \OT1/lmtt/m/n/12 print(f"Palabra '{palabra}' con puntaje {puntaje} a[]nadida con []exito.")[] 
  []
 
 [19] [20]
-Overfull \hbox (36.33388pt too wide) in paragraph at lines 869--869
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 867--867
 []                \OT1/lmtt/m/n/12 with open(archivo, "r", encoding="utf-8") as archivo_texto:[] 
  []
 
 
-Overfull \hbox (36.33388pt too wide) in paragraph at lines 872--872
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 870--870
 []                    \OT1/lmtt/m/n/12 tabla_lexemas = tokenizador.afd.generar_tabla_lexemas()[] 
  []
 
 
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 873--873
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 871--871
 []                    \OT1/lmtt/m/n/12 with open(os.path.join("output","tabla_lexemas.txt"),[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 879--879
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 877--877
 []                            \OT1/lmtt/m/n/12 archivo_salida.write(f"{entrada['Lexema']:<20}[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 880--880
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 878--878
 []                            \OT1/lmtt/m/n/12 {entrada['Token']:<15} {entrada['Patron']}\n")[] 
  []
 
 [21]
-Overfull \hbox (36.33388pt too wide) in paragraph at lines 899--899
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 897--897
 []                    \OT1/lmtt/m/n/12 if resultado_protocolo['saludo'] else 'No detectado'}")[] 
  []
 
 
-Overfull \hbox (5.45886pt too wide) in paragraph at lines 916--916
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 914--914
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['sentimiento']}\n")[] 
  []
 
 
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 918--918
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 916--916
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['puntaje_total']}\n")[] 
  []
 
 
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 920--920
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 918--918
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['palabras_positivas']}\n")[] 
  []
 
 
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 922--922
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 920--920
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['palabras_negativas']}\n")[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 929--929
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 927--927
 []                            \OT1/lmtt/m/n/12 {'OK' if resultado_protocolo['identificacion'][] 
  []
 
 
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 936--936
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 934--934
 []                            \OT1/lmtt/m/n/12 if resultado_protocolo['palabras_prohibidas'][] 
  []
 
 [22]
-Overfull \hbox (42.50888pt too wide) in paragraph at lines 951--951
+Overfull \hbox (42.50888pt too wide) in paragraph at lines 949--949
 []            \OT1/lmtt/m/n/12 agregar_palabra_sentimiento(tabla_sentimientos, tokenizador.afd)[] 
  []
 
 [23]
-Overfull \hbox (38.5767pt too wide) in paragraph at lines 993--995
+Overfull \hbox (38.5767pt too wide) in paragraph at lines 991--993
 []\OT1/lmr/m/n/12 Limpia el AFD y car-ga la ta-bla de sen-ti-mien-tos des-de \OT1/lmtt/m/n/12 palabras[]y[]puntajes.txt\OT1/lmr/m/n/12 . 
  []
 
 
-Overfull \hbox (44.26015pt too wide) in paragraph at lines 996--997
+Overfull \hbox (44.26015pt too wide) in paragraph at lines 994--995
 []\OT1/lmr/m/n/12 Elimina ar-chi-vos tem-po-ra-les co-mo \OT1/lmtt/m/n/12 tabla[]lexemas.txt\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 afd.json \OT1/lmr/m/n/12 y \OT1/lmtt/m/n/12 reporte.txt\OT1/lmr/m/n/12 . 
  []
 
@@ -1081,7 +1081,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  88i,12n,94p,1053b,846s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on ensayo.pdf (26 pages, 238973 bytes).
+Output written on ensayo.pdf (26 pages, 238470 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

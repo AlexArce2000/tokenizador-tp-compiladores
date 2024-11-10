@@ -321,7 +321,6 @@ class AFD:
             raise Exception("Transicion duplicada")
         self.transiciones[estado_origen][lexema] = estado_destino
         
-        # No incrementar el contador aquí
         if lexema not in self.lexema_ids:
             self.lexema_ids[lexema] = self.next_id
             self.next_id += 1
@@ -567,14 +566,13 @@ def verificar_protocolo(lexemas, tokenizador):
     mensaje_agente = []
 
     for lexema in lexemas:
-        # Detectar inicio de mensaje del agente
         if "agente:" in lexema:
             analizando_agente = True
             mensaje_agente.append(lexema.split("agente:", 1)[1].strip())
         elif "cliente:" in lexema and analizando_agente:
             analizando_agente = False
             procesar_mensaje_agente(mensaje_agente, tokenizador, resultados)
-            mensaje_agente = []  # Reiniciar el mensaje
+            mensaje_agente = []  
 
         elif analizando_agente:
             mensaje_agente.append(lexema)
@@ -689,18 +687,18 @@ class TablaSentimientos:
             if actual.palabra == palabra:
                 return actual.puntaje
             actual = actual.siguiente
-        return 0  # Retornar 0 si la palabra no se encuentra
+        return 0  
 
     def eliminar_palabra(self, palabra):
         actual = self.cabeza
         anterior = None
         while actual:
             if actual.palabra == palabra:
-                if anterior is None:  # Eliminar la cabeza
+                if anterior is None: 
                     self.cabeza = actual.siguiente
                 else:
                     anterior.siguiente = actual.siguiente
-                return  # Palabra eliminada
+                return  
             anterior = actual
             actual = actual.siguiente
         print(f"La palabra '{palabra}' no se encontró 
