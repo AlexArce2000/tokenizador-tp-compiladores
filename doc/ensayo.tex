@@ -162,7 +162,7 @@ Las transiciones se definen para cada palabra de interés, lo que permite al AFD
     \centering
     \begin{tabular}{|c|l|}
     \hline
-    Símbolo & Representación\\
+    Símbolo & Representación - Tokens\\
     \hline
     $q_0$  & INICIO \\
     $q_1$  & SALUDO \\
@@ -172,6 +172,9 @@ Las transiciones se definen para cada palabra de interés, lo que permite al AFD
     $q_5$  & PALABRAS NEGATIVAS \\
     $q_6$  & PALABRAS PROHIBIDAS \\
     $q_7$  & ERRORES LEXICOS \\
+    \hline
+    Símbolo & Representación - Patrones\\
+    \hline    
     $a$ & Lista saludos\\
     $b$ & Lista identificación\\
     $c$ & Lista despedidas\\
@@ -256,7 +259,9 @@ Se implementaron mecanismos para validar los resultados del sistema, asegurando 
 En esta sección, se presenta el código fuente del sistema desarrollado para el análisis de interacciones en contact centers. El código está organizado en módulos, clases y métodos que permiten la tokenización de texto, el análisis de sentimientos y la verificación de protocolos de atención.
 
 El sistema está estructurado de la siguiente manera:
+\begin{tcolorbox}[colback=gray!10, colframe=gray!80, sharp corners, boxrule=0.5pt]
 \begin{verbatim}
+    
     +-- data
     |   +-- despedidas.txt
     |   +-- identificaciones.txt
@@ -289,8 +294,9 @@ El sistema está estructurado de la siguiente manera:
     |
     |- tokenizador.py
     |- README.md
-\end{verbatim}
 
+\end{verbatim}
+\end{tcolorbox}
 \newpage
 \subsubsection{Clase AFD}
 
@@ -365,6 +371,7 @@ class AFD:
                 })
         return tabla
 \end{verbatim}
+
 \section*{Explicación de la Clase AFD}
 \begin{quote}
 \textbf{Inicialización:} La clase \texttt{AFD} se inicializa definiendo el estado inicial, los estados finales y las transiciones que definen el flujo del autómata.\\
@@ -1014,8 +1021,8 @@ El código maneja los resultados de análisis de sentimientos y verificación de
 \subsection{Resultados}
 El siguiente es el resultado del análisis de un ejemplo de conversación entre un agente y un cliente, en el cual se detecta un sentimiento general positivo. Los tokens asociados a palabras positivas superan en número y en puntaje a las palabras negativas, lo que sugiere una interacción satisfactoria. Además, se verifica que el agente ha cumplido con el protocolo de atención al cliente, incluyendo saludo, identificación, y despedida, sin utilizar palabras prohibidas.
 
+\begin{tcolorbox}[colback=gray!10, colframe=gray!80, sharp corners, boxrule=0.5pt]
 \begin{verbatim}
-Detección de sentimientos: 
 Sentimiento general: Positivo
 Puntaje total: 12
 Palabras positivas: ['bien', 'bien', 'genial', 'bien', 'bien', 
@@ -1026,8 +1033,8 @@ Verificación del protocolo de Atención (Agente):
     - Identificación: OK
     - Despedida: OK
     - Palabras rudas: Ninguna detectada
-        
 \end{verbatim}
+\end{tcolorbox}
 
 \section{Conclusión}
 
