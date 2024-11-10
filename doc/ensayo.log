@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.5)  9 NOV 2024 01:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.5)  10 NOV 2024 15:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/doc/ensayo.tex
-(f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/doc/ensayo.tex
+**f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex
+(f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
@@ -343,31 +343,65 @@ Package footmisc Info: Declaring symbol style lamport* on input line 744.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 765.
 ) (C:\Program Files\MiKTeX\tex/latex/placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count315
-\lst@gtempboxa=\box67
-\lst@token=\toks31
-\lst@length=\count316
-\lst@currlwidth=\dimen178
-\lst@column=\count317
-\lst@pos=\count318
-\lst@lostspace=\dimen179
-\lst@width=\dimen180
-\lst@newlines=\count319
-\lst@lineno=\count320
-\lst@maxwidth=\dimen181
- (C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
-File: lstpatch.sty 2024/03/11 1.10a (Carsten Heinz)
-) (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2024/03/11 1.10a (Carsten Heinz)
-\c@lstnumber=\count321
-\lst@skipnumbers=\count322
-\lst@framebox=\box68
-) (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
-File: listings.cfg 2024/03/11 1.10a listings configuration
+) (C:\Program Files\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+ (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen178
+\pgfutil@tempdimb=\dimen179
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box67
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: listings 2024/03/11 1.10a (Carsten Heinz)
- (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+) (C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen182
+\pgf@y=\dimen183
+\pgf@xa=\dimen184
+\pgf@ya=\dimen185
+\pgf@xb=\dimen186
+\pgf@yb=\dimen187
+\pgf@xc=\dimen188
+\pgf@yc=\dimen189
+\pgf@xd=\dimen190
+\pgf@yd=\dimen191
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count315
+\c@pgf@countb=\count316
+\c@pgf@countc=\count317
+\c@pgf@countd=\count318
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count319
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count320
+\pgfsyssoftpath@bigbuffer@items=\count321
+) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
  (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -383,116 +417,55 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
-Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks32
-\verbatim@line=\toks33
-\verbatim@in@stream=\read3
-) (C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks34
-\pgfutil@tempdima=\dimen182
-\pgfutil@tempdimb=\dimen183
-) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box69
-) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen184
-\Gin@req@width=\dimen185
-) (C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks35
-\pgfkeys@temptoks=\toks36
- (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks37
-))
-\pgf@x=\dimen186
-\pgf@y=\dimen187
-\pgf@xa=\dimen188
-\pgf@ya=\dimen189
-\pgf@xb=\dimen190
-\pgf@yb=\dimen191
-\pgf@xc=\dimen192
-\pgf@yc=\dimen193
-\pgf@xd=\dimen194
-\pgf@yd=\dimen195
-\w@pgf@writea=\write4
-\r@pgf@reada=\read4
-\c@pgf@counta=\count323
-\c@pgf@countb=\count324
-\c@pgf@countc=\count325
-\c@pgf@countd=\count326
-\t@pgf@toka=\toks38
-\t@pgf@tokb=\toks39
-\t@pgf@tokc=\toks40
-\pgf@sys@id@count=\count327
- (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
-)
-Driver file for pgf: pgfsys-pdftex.def
- (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count328
-\pgfsyssoftpath@bigbuffer@items=\count329
-) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen196
-\pgfmath@count=\count330
-\pgfmath@box=\box70
-\pgfmath@toks=\toks41
-\pgfmath@stack@operand=\toks42
-\pgfmath@stack@operation=\toks43
+\pgfmath@dimen=\dimen192
+\pgfmath@count=\count322
+\pgfmath@box=\box68
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count331
+\c@pgfmathroundto@lastzeros=\count323
 )) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen197
-\pgf@picmaxx=\dimen198
-\pgf@picminy=\dimen199
-\pgf@picmaxy=\dimen256
-\pgf@pathminx=\dimen257
-\pgf@pathmaxx=\dimen258
-\pgf@pathminy=\dimen259
-\pgf@pathmaxy=\dimen260
-\pgf@xx=\dimen261
-\pgf@xy=\dimen262
-\pgf@yx=\dimen263
-\pgf@yy=\dimen264
-\pgf@zx=\dimen265
-\pgf@zy=\dimen266
+\pgf@picminx=\dimen193
+\pgf@picmaxx=\dimen194
+\pgf@picminy=\dimen195
+\pgf@picmaxy=\dimen196
+\pgf@pathminx=\dimen197
+\pgf@pathmaxx=\dimen198
+\pgf@pathminy=\dimen199
+\pgf@pathmaxy=\dimen256
+\pgf@xx=\dimen257
+\pgf@xy=\dimen258
+\pgf@yx=\dimen259
+\pgf@yy=\dimen260
+\pgf@zx=\dimen261
+\pgf@zy=\dimen262
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen267
-\pgf@path@lasty=\dimen268
+\pgf@path@lastx=\dimen263
+\pgf@path@lasty=\dimen264
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen269
-\pgf@shorten@start@additional=\dimen270
+\pgf@shorten@end@additional=\dimen265
+\pgf@shorten@start@additional=\dimen266
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box71
-\pgf@hbox=\box72
-\pgf@layerbox@main=\box73
-\pgf@picture@serial@count=\count332
+\pgfpic=\box69
+\pgf@hbox=\box70
+\pgf@layerbox@main=\box71
+\pgf@picture@serial@count=\count324
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen271
+\pgflinewidth=\dimen267
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen272
-\pgf@pt@y=\dimen273
-\pgf@pt@temp=\dimen274
+\pgf@pt@x=\dimen268
+\pgf@pt@y=\dimen269
+\pgf@pt@temp=\dimen270
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
@@ -501,17 +474,17 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen275
+\pgfarrowsep=\dimen271
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen276
-\pgf@sys@shading@range@num=\count333
-\pgf@shadingcount=\count334
+\pgf@max=\dimen272
+\pgf@sys@shading@range@num=\count325
+\pgf@shadingcount=\count326
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box74
+\pgfexternal@startupbox=\box72
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
@@ -522,51 +495,98 @@ File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box75
+\pgfnodeparttextbox=\box73
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen277
-\pgf@nodesepend=\dimen278
+\pgf@nodesepstart=\dimen273
+\pgf@nodesepend=\dimen274
 ) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+)) (C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks41
+\verbatim@line=\toks42
+\verbatim@in@stream=\read4
+) (C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box74
+\tcb@upperbox=\box75
+\tcb@lowerbox=\box76
+\tcb@phantombox=\box77
+\c@tcbbreakpart=\count327
+\c@tcblayer=\count328
+\c@tcolorbox@number=\count329
+\l__tcobox_tmpa_box=\box78
+\l__tcobox_tmpa_dim=\dimen275
+\tcb@temp=\box79
+\tcb@temp=\box80
+\tcb@temp=\box81
+\tcb@temp=\box82
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count330
+\lst@gtempboxa=\box83
+\lst@token=\toks43
+\lst@length=\count331
+\lst@currlwidth=\dimen276
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen277
+\lst@width=\dimen278
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen279
+ (C:\Program Files\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/03/11 1.10a (Carsten Heinz)
+) (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/03/11 1.10a (Carsten Heinz)
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
+\lst@framebox=\box84
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/03/11 1.10a listings configuration
+))
+Package: listings 2024/03/11 1.10a (Carsten Heinz)
+ (C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen279
-\pgffor@skip=\dimen280
+\pgffor@iter=\dimen280
+\pgffor@skip=\dimen281
 \pgffor@stack=\toks44
 \pgffor@toks=\toks45
 )) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count335
-\pgfplotmarksize=\dimen281
+\pgf@plot@mark@count=\count338
+\pgfplotmarksize=\dimen282
 )
-\tikz@lastx=\dimen282
-\tikz@lasty=\dimen283
-\tikz@lastxsaved=\dimen284
-\tikz@lastysaved=\dimen285
-\tikz@lastmovetox=\dimen286
-\tikz@lastmovetoy=\dimen287
-\tikzleveldistance=\dimen288
-\tikzsiblingdistance=\dimen289
-\tikz@figbox=\box76
-\tikz@figbox@bg=\box77
-\tikz@tempbox=\box78
-\tikz@tempbox@bg=\box79
-\tikztreelevel=\count336
-\tikznumberofchildren=\count337
-\tikznumberofcurrentchild=\count338
-\tikz@fig@count=\count339
+\tikz@lastx=\dimen283
+\tikz@lasty=\dimen284
+\tikz@lastxsaved=\dimen285
+\tikz@lastysaved=\dimen286
+\tikz@lastmovetox=\dimen287
+\tikz@lastmovetoy=\dimen288
+\tikzleveldistance=\dimen289
+\tikzsiblingdistance=\dimen290
+\tikz@figbox=\box85
+\tikz@figbox@bg=\box86
+\tikz@tempbox=\box87
+\tikz@tempbox@bg=\box88
+\tikztreelevel=\count339
+\tikznumberofchildren=\count340
+\tikznumberofcurrentchild=\count341
+\tikz@fig@count=\count342
  (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count340
-\pgfmatrixcurrentcolumn=\count341
-\pgf@matrix@numberofcolumns=\count342
+\pgfmatrixcurrentrow=\count343
+\pgfmatrixcurrentcolumn=\count344
+\pgf@matrix@numberofcolumns=\count345
 )
-\tikz@expandcount=\count343
+\tikz@expandcount=\count346
  (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryautomata.code.tex
@@ -575,33 +595,33 @@ File: tikzlibraryautomata.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodepartlowerbox=\box80
-\pgfnodeparttwobox=\box81
-\pgfnodepartthreebox=\box82
-\pgfnodepartfourbox=\box83
-\pgfnodeparttwentybox=\box84
-\pgfnodepartnineteenbox=\box85
-\pgfnodeparteighteenbox=\box86
-\pgfnodepartseventeenbox=\box87
-\pgfnodepartsixteenbox=\box88
-\pgfnodepartfifteenbox=\box89
-\pgfnodepartfourteenbox=\box90
-\pgfnodepartthirteenbox=\box91
-\pgfnodeparttwelvebox=\box92
-\pgfnodepartelevenbox=\box93
-\pgfnodeparttenbox=\box94
-\pgfnodepartninebox=\box95
-\pgfnodeparteightbox=\box96
-\pgfnodepartsevenbox=\box97
-\pgfnodepartsixbox=\box98
-\pgfnodepartfivebox=\box99
+\pgfnodepartlowerbox=\box89
+\pgfnodeparttwobox=\box90
+\pgfnodepartthreebox=\box91
+\pgfnodepartfourbox=\box92
+\pgfnodeparttwentybox=\box93
+\pgfnodepartnineteenbox=\box94
+\pgfnodeparteighteenbox=\box95
+\pgfnodepartseventeenbox=\box96
+\pgfnodepartsixteenbox=\box97
+\pgfnodepartfifteenbox=\box98
+\pgfnodepartfourteenbox=\box99
+\pgfnodepartthirteenbox=\box100
+\pgfnodeparttwelvebox=\box101
+\pgfnodepartelevenbox=\box102
+\pgfnodeparttenbox=\box103
+\pgfnodepartninebox=\box104
+\pgfnodeparteightbox=\box105
+\pgfnodepartsevenbox=\box106
+\pgfnodepartsixbox=\box107
+\pgfnodepartfivebox=\box108
 ))) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
  (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\arrowsize=\dimen290
+\arrowsize=\dimen291
 )) (C:\Program Files\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -652,53 +672,53 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count344
-\Gm@cntv=\count345
-\c@Gm@tempcnt=\count346
-\Gm@bindingoffset=\dimen291
-\Gm@wd@mp=\dimen292
-\Gm@odd@mp=\dimen293
-\Gm@even@mp=\dimen294
-\Gm@layoutwidth=\dimen295
-\Gm@layoutheight=\dimen296
-\Gm@layouthoffset=\dimen297
-\Gm@layoutvoffset=\dimen298
+\Gm@cnth=\count347
+\Gm@cntv=\count348
+\c@Gm@tempcnt=\count349
+\Gm@bindingoffset=\dimen292
+\Gm@wd@mp=\dimen293
+\Gm@odd@mp=\dimen294
+\Gm@even@mp=\dimen295
+\Gm@layoutwidth=\dimen296
+\Gm@layoutheight=\dimen297
+\Gm@layouthoffset=\dimen298
+\Gm@layoutvoffset=\dimen299
 \Gm@dimlist=\toks46
  (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
  (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@algorithm=\count347
+\c@algorithm=\count350
 ) (C:\Program Files\MiKTeX\tex/latex/algorithms\algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count348
-\c@ALC@line=\count349
-\c@ALC@rem=\count350
-\c@ALC@depth=\count351
+\c@ALC@unique=\count351
+\c@ALC@line=\count352
+\c@ALC@rem=\count353
+\c@ALC@depth=\count354
 \ALC@tlm=\skip91
 \algorithmicindent=\skip92
 ) (C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box100
+\ttl@box=\box109
 \beforetitleunit=\skip93
 \aftertitleunit=\skip94
-\ttl@plus=\dimen299
-\ttl@minus=\dimen300
+\ttl@plus=\dimen300
+\ttl@minus=\dimen301
 \ttl@toksa=\toks47
-\titlewidth=\dimen301
-\titlewidthlast=\dimen302
-\titlewidthfirst=\dimen303
+\titlewidth=\dimen302
+\titlewidthlast=\dimen303
+\titlewidthfirst=\dimen304
 ) (C:\Program Files\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip95
-\enit@outerparindent=\dimen304
+\enit@outerparindent=\dimen305
 \enit@toks=\toks48
-\enit@inbox=\box101
-\enit@count@id=\count352
-\enitdp@description=\count353
+\enit@inbox=\box110
+\enit@count@id=\count355
+\enitdp@description=\count356
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 43.
  (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (ensayo.aux
@@ -709,37 +729,37 @@ LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `ensayo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
 
-Package chemgreek Info: Activating mapping `default' on line 42.
+Package chemgreek Info: Activating mapping `default' on line 43.
 
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count354
-\scratchdimen=\dimen305
-\scratchbox=\box102
-\nofMPsegments=\count355
-\nofMParguments=\count356
+\scratchcounter=\count357
+\scratchdimen=\dimen306
+\scratchbox=\box111
+\nofMPsegments=\count358
+\nofMParguments=\count359
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count357
-\MPscratchDim=\dimen306
-\MPnumerator=\count358
-\makeMPintoPDFobject=\count359
+\MPscratchCnt=\count360
+\MPscratchDim=\dimen307
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
 \everyMPtoPDFconversion=\toks50
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -753,14 +773,14 @@ Package caption Info: floatrow package is loaded.
 Package caption Info: floatrow package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
  (C:\Program Files\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 42.
-\c@bibnote=\count360
-\c@lstlisting=\count361
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 43.
+\c@bibnote=\count363
+\c@lstlisting=\count364
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -835,204 +855,209 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `ensayo.toc'.
 
  [1] [2]
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 163.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 157.
  (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OT1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 163.
- [3{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}] [4] [5] [6]
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 241.
+(Font)              Font shape `OT1/lmss/bx/sl' tried instead on input line 157.
+
+Overfull \hbox (38.85011pt too wide) in paragraph at lines 163--184
+ [][] 
+ []
+
+[3{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}] [4] [5] [6]
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 259.
  (C:\Program Files\MiKTeX\tex/latex/lm\ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [7{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}] [8]
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 331--331
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 349--349
 []                \OT1/lmtt/m/n/12 data['transiciones'][self.estado_inicial][transicion] = estado[] 
  []
 
 
-Overfull \hbox (61.03389pt too wide) in paragraph at lines 333--333
+Overfull \hbox (61.03389pt too wide) in paragraph at lines 351--351
 []        \OT1/lmtt/m/n/12 with open(os.path.join("output",filename), 'w', encoding='utf-8') as f:[] 
  []
 
 
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 341--341
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 359--359
 []                    \OT1/lmtt/m/n/12 for lexema in self.transiciones[self.estado_inicial][] 
  []
 
 
-Overfull \hbox (67.2089pt too wide) in paragraph at lines 342--342
+Overfull \hbox (67.2089pt too wide) in paragraph at lines 360--360
 []                    \OT1/lmtt/m/n/12 if self.transiciones[self.estado_inicial][lexema] == estado][] 
  []
 
 [9]
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 374--374
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 392--392
 []        \OT1/lmtt/m/n/12 with open(os.path.join("data", archivo), "r", encoding="utf-8") as f:[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 386--386
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 404--404
 []        \OT1/lmtt/m/n/12 with open(os.path.join("data",archivo),"r",encoding="utf-8") as f:[] 
  []
 
 
-Overfull \hbox (11.63387pt too wide) in paragraph at lines 406--406
+Overfull \hbox (11.63387pt too wide) in paragraph at lines 424--424
 []        \OT1/lmtt/m/n/12 identificaciones = self.cargar_palabras("identificaciones.txt")[] 
  []
 
 
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 408--408
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 426--426
 []        \OT1/lmtt/m/n/12 palabras_prohibidas = self.cargar_palabras("palabras_prohibidas.txt")[] 
  []
 
 
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 410--410
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 428--428
 []                    \OT1/lmtt/m/n/12 self.cargar_palabras_y_puntajes("palabras_y_puntajes.txt")[] 
  []
 
 [10]
-Overfull \hbox (5.45886pt too wide) in paragraph at lines 413--413
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 431--431
 []            \OT1/lmtt/m/n/12 afd.agregar_transicion(estado_inicial, saludo, "q_SALUDO")[] 
  []
 
 
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 445--445
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 463--463
 []                \OT1/lmtt/m/n/12 print(f"Lexema aceptado: [{lexema}] se detecto como {estado}")[] 
  []
 
 [11]
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 460--460
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 478--478
 []                \OT1/lmtt/m/n/12 self.afd.transiciones_usadas[error_estado].append(lexema)[] 
  []
 
 
-Overfull \hbox (2.77106pt too wide) in paragraph at lines 471--472
+Overfull \hbox (2.77106pt too wide) in paragraph at lines 489--490
 []\OT1/lmr/bx/n/12 Inicializaci^^Son: \OT1/lmr/m/n/12 La cla-se \OT1/lmtt/m/n/12 TokenizadorAFD \OT1/lmr/m/n/12 se ini-cia-li-za crean-do el aut^^Soma-
  []
 
 [12] [13]
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 548--548
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 566--566
 []            \OT1/lmtt/m/n/12 mensaje_agente.append(lexema.split("agente:", 1)[1].strip())[] 
  []
 
 
-Overfull \hbox (42.50888pt too wide) in paragraph at lines 551--551
+Overfull \hbox (42.50888pt too wide) in paragraph at lines 569--569
 []            \OT1/lmtt/m/n/12 procesar_mensaje_agente(mensaje_agente, tokenizador, resultados)[] 
  []
 
 
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 558--558
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 576--576
 []        \OT1/lmtt/m/n/12 procesar_mensaje_agente(mensaje_agente, tokenizador, resultados)[] 
  []
 
 LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 582.
+(Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 600.
 [14]
-Overfull \hbox (8.7625pt too wide) in paragraph at lines 594--595
+Overfull \hbox (8.7625pt too wide) in paragraph at lines 612--613
 []\OT1/lmr/m/n/12 Se re-vi-sa ca-da le-xe-ma pa-ra ve-ri-fi-car si per-te-ne-ce al es-ta-do \OT1/lmtt/m/n/12 q[]PALABRA[]PROHIBIDA\OT1/lmr/m/n/12 ,
  []
 
 
-Overfull \hbox (7.18118pt too wide) in paragraph at lines 618--619
+Overfull \hbox (7.18118pt too wide) in paragraph at lines 636--637
 []\OT1/lmr/m/n/12 Para ca-da seg-men-to del agen-te, se lla-ma a la fun-ci^^Son \OT1/lmtt/m/n/12 procesar[]mensaje[]agente\OT1/lmr/m/n/12 . 
  []
 
 [15]
-Overfull \hbox (8.00644pt too wide) in paragraph at lines 634--635
+Overfull \hbox (8.00644pt too wide) in paragraph at lines 652--653
 \OT1/lmr/m/n/12 pro-to-co-lo (\OT1/lmtt/m/n/12 q[]SALUDO\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 q[]IDENTIFICACION\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 q[]DESPEDIDA\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 q[]PALABRA[]PROHIBIDA\OT1/lmr/m/n/12 ). 
  []
 
 [16] [17]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 710.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 728.
  (C:\Program Files\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 733--733
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 751--751
 []        \OT1/lmtt/m/n/12 with open(os.path.join("data", archivo), "r", encoding="utf-8") as f:[] 
  []
 
 
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 736--736
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 754--754
 []                \OT1/lmtt/m/n/12 tabla_sentimientos.agregar_palabra(palabra, int(puntaje))[] 
  []
 
 [18{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (54.85889pt too wide) in paragraph at lines 753--753
+Overfull \hbox (54.85889pt too wide) in paragraph at lines 771--771
 []        \OT1/lmtt/m/n/12 print(f"Palabra '{palabra}' con puntaje {puntaje} a[]nadida con []exito.")[] 
  []
 
 [19] [20]
-Overfull \hbox (36.33388pt too wide) in paragraph at lines 844--844
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 862--862
 []                \OT1/lmtt/m/n/12 with open(archivo, "r", encoding="utf-8") as archivo_texto:[] 
  []
 
 
-Overfull \hbox (36.33388pt too wide) in paragraph at lines 847--847
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 865--865
 []                    \OT1/lmtt/m/n/12 tabla_lexemas = tokenizador.afd.generar_tabla_lexemas()[] 
  []
 
 
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 848--848
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 866--866
 []                    \OT1/lmtt/m/n/12 with open(os.path.join("output","tabla_lexemas.txt"),[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 854--854
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 872--872
 []                            \OT1/lmtt/m/n/12 archivo_salida.write(f"{entrada['Lexema']:<20}[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 855--855
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 873--873
 []                            \OT1/lmtt/m/n/12 {entrada['Token']:<15} {entrada['Patron']}\n")[] 
  []
 
 [21]
-Overfull \hbox (36.33388pt too wide) in paragraph at lines 874--874
+Overfull \hbox (36.33388pt too wide) in paragraph at lines 892--892
 []                    \OT1/lmtt/m/n/12 if resultado_protocolo['saludo'] else 'No detectado'}")[] 
  []
 
 
-Overfull \hbox (5.45886pt too wide) in paragraph at lines 891--891
+Overfull \hbox (5.45886pt too wide) in paragraph at lines 909--909
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['sentimiento']}\n")[] 
  []
 
 
-Overfull \hbox (17.80887pt too wide) in paragraph at lines 893--893
+Overfull \hbox (17.80887pt too wide) in paragraph at lines 911--911
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['puntaje_total']}\n")[] 
  []
 
 
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 895--895
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 913--913
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['palabras_positivas']}\n")[] 
  []
 
 
-Overfull \hbox (48.68388pt too wide) in paragraph at lines 897--897
+Overfull \hbox (48.68388pt too wide) in paragraph at lines 915--915
 []                            \OT1/lmtt/m/n/12 {resultado_sentimiento['palabras_negativas']}\n")[] 
  []
 
 
-Overfull \hbox (30.15887pt too wide) in paragraph at lines 904--904
+Overfull \hbox (30.15887pt too wide) in paragraph at lines 922--922
 []                            \OT1/lmtt/m/n/12 {'OK' if resultado_protocolo['identificacion'][] 
  []
 
 
-Overfull \hbox (23.98387pt too wide) in paragraph at lines 911--911
+Overfull \hbox (23.98387pt too wide) in paragraph at lines 929--929
 []                            \OT1/lmtt/m/n/12 if resultado_protocolo['palabras_prohibidas'][] 
  []
 
 [22]
-Overfull \hbox (42.50888pt too wide) in paragraph at lines 926--926
+Overfull \hbox (42.50888pt too wide) in paragraph at lines 944--944
 []            \OT1/lmtt/m/n/12 agregar_palabra_sentimiento(tabla_sentimientos, tokenizador.afd)[] 
  []
 
 [23]
-Overfull \hbox (38.5767pt too wide) in paragraph at lines 968--970
+Overfull \hbox (38.5767pt too wide) in paragraph at lines 986--988
 []\OT1/lmr/m/n/12 Limpia el AFD y car-ga la ta-bla de sen-ti-mien-tos des-de \OT1/lmtt/m/n/12 palabras[]y[]puntajes.txt\OT1/lmr/m/n/12 . 
  []
 
 
-Overfull \hbox (44.26015pt too wide) in paragraph at lines 971--972
+Overfull \hbox (44.26015pt too wide) in paragraph at lines 989--990
 []\OT1/lmr/m/n/12 Elimina ar-chi-vos tem-po-ra-les co-mo \OT1/lmtt/m/n/12 tabla[]lexemas.txt\OT1/lmr/m/n/12 , \OT1/lmtt/m/n/12 afd.json \OT1/lmr/m/n/12 y \OT1/lmtt/m/n/12 reporte.txt\OT1/lmr/m/n/12 . 
  []
 
@@ -1048,15 +1073,15 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 27243 strings out of 474423
- 576968 string characters out of 5751528
+ 29309 strings out of 474423
+ 631370 string characters out of 5751528
  1950496 words of memory out of 5000000
- 49149 multiletter control sequences out of 15000+600000
+ 51203 multiletter control sequences out of 15000+600000
  587437 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,9n,94p,1025b,879s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,12n,94p,1053b,846s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on ensayo.pdf (26 pages, 237012 bytes).
+Output written on ensayo.pdf (26 pages, 238491 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

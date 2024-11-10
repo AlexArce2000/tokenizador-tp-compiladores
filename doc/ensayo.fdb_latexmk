@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1731126569.92967 "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/doc/ensayo.tex" "ensayo.pdf" "ensayo" 1731126580.98593 0
+["pdflatex"] 1731263683.86103 "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex" "ensayo.pdf" "ensayo" 1731263688.80176 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256929440 2327 9d6df24f9c4f7368395224341a95523a ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc" 1256929440 2359 de53213020575850c8f8debc35095765 ""
@@ -127,6 +127,7 @@
   "C:/Program Files/MiKTeX/tex/latex/chemstyle/chemstyle.sty" 1372833718 13041 80852db172d8108aab2195afef4a1967 ""
   "C:/Program Files/MiKTeX/tex/latex/chemstyle/config/jacs.chemstyle.cfg" 1372833718 1984 79e7f19e09e509ad98be2ed08c702157 ""
   "C:/Program Files/MiKTeX/tex/latex/enumitem/enumitem.sty" 1561039820 51697 f8f08183cd2080d9d18a41432d651dfb ""
+  "C:/Program Files/MiKTeX/tex/latex/environ/environ.sty" 1399192161 4378 f429f0da968c278653359293040a8f52 ""
   "C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Program Files/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Program Files/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1714224565 18674 2cc1c2f64272f458981b096e7600b014 ""
@@ -177,6 +178,7 @@
   "C:/Program Files/MiKTeX/tex/latex/placeins/placeins.sty" 1113865200 4087 636308456f60d2b31cbf97867db5708d ""
   "C:/Program Files/MiKTeX/tex/latex/psfrag/psfrag.sty" 1656241896 7349 04574cd13971edb76f06a9e2e9a108d9 ""
   "C:/Program Files/MiKTeX/tex/latex/siunitx/siunitx.sty" 1715015655 331678 95db4e07e1262c869c89c620901b8487 ""
+  "C:/Program Files/MiKTeX/tex/latex/tcolorbox/tcolorbox.sty" 1704904354 103614 1ca07ac773e16c641eabdcbf98c7511d ""
   "C:/Program Files/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Program Files/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "C:/Program Files/MiKTeX/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
@@ -185,13 +187,14 @@
   "C:/Program Files/MiKTeX/tex/latex/tools/xspace.sty" 1700599895 4545 9f5ea23ab1c91476c42749893f790666 ""
   "C:/Program Files/MiKTeX/tex/latex/translations/dicts/translations-basic-dictionary-spanish.trsl" 1644048522 5850 2ef40dd7b6b9ada125cd1d90b7f7b307 ""
   "C:/Program Files/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
+  "C:/Program Files/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714926019 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/usuario/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1714926119 24226237 a8779468dfd1b94ed1c1a19eebdc5337 ""
-  "ensayo.aux" 1731126577 4771 8c05d1b219233705cff30b9ccf9bc369 "pdflatex"
-  "ensayo.tex" 1731126563 52950 89fa8700529272e1d57f8ec1587460ea ""
-  "ensayo.toc" 1731126577 2906 992e0298060074b59469f53b36504823 "pdflatex"
-  "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/doc/ensayo.tex" 1731126563 52950 89fa8700529272e1d57f8ec1587460ea ""
+  "ensayo.aux" 1731263687 4875 d6d6e28076034cb35fce2e915a2bbcc1 "pdflatex"
+  "ensayo.tex" 1731263682 54521 2fca2860746cc67a2026e924904266b8 ""
+  "ensayo.toc" 1731263687 2969 94e21c6caf4055b16c10e8e6aa643758 "pdflatex"
+  "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex" 1731263682 54521 2fca2860746cc67a2026e924904266b8 ""
   (generated)
   "ensayo.aux"
   "ensayo.log"

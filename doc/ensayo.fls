@@ -1,6 +1,6 @@
-PWD f:\FPUNA-SEMESTRES\9-Noveno_Semestre\DISEÑO-DE-COMPILADORES\TP-Diseño-de-Compiladores\doc
+PWD f:\FPUNA-SEMESTRES\9-Noveno_Semestre\DISEÑO-DE-COMPILADORES\TP-Diseño-de-Compiladores\tokenizador-tp-compiladores\doc
 INPUT C:\Users\usuario\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT f:\FPUNA-SEMESTRES\9-Noveno_Semestre\DISEÑO-DE-COMPILADORES\TP-Diseño-de-Compiladores\doc\ensayo.tex
+INPUT f:\FPUNA-SEMESTRES\9-Noveno_Semestre\DISEÑO-DE-COMPILADORES\TP-Diseño-de-Compiladores\tokenizador-tp-compiladores\doc\ensayo.tex
 OUTPUT ensayo.log
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
@@ -114,29 +114,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\footmisc\footmisc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\footmisc\footmisc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\placeins\placeins.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\placeins\placeins.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\verbatim.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\tools\verbatim.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
@@ -169,6 +148,14 @@ INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.te
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
@@ -210,6 +197,25 @@ INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.s
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
