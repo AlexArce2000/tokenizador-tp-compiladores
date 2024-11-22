@@ -35,4 +35,4 @@
 \contentsline {subsubsection}{\numberline {2.5.5}Gestión de Sentimientos}{18}{}%
 \contentsline {subsubsection}{\numberline {2.5.6}Función principal}{20}{}%
 \contentsline {subsection}{\numberline {2.6}Resultados}{25}{}%
-\contentsline {section}{\numberline {3}Conclusión}{25}{}%
+\contentsline {section}{\numberline {3}Conclusión}{27}{}%

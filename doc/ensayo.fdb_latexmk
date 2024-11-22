@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1732238455.76294 "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex" "ensayo.pdf" "ensayo" 1732238461.94859 0
+["pdflatex"] 1732253003.78642 "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex" "ensayo.pdf" "ensayo" 1732253009.82577 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256929440 2327 9d6df24f9c4f7368395224341a95523a ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc" 1256929440 2359 de53213020575850c8f8debc35095765 ""
@@ -191,10 +191,10 @@
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1714926019 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/usuario/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1714926119 24226237 a8779468dfd1b94ed1c1a19eebdc5337 ""
-  "ensayo.aux" 1732238461 4875 d6d6e28076034cb35fce2e915a2bbcc1 "pdflatex"
-  "ensayo.tex" 1732238453 54724 f1098413624e3ce90414f8692275884f ""
-  "ensayo.toc" 1732238461 2969 94e21c6caf4055b16c10e8e6aa643758 "pdflatex"
-  "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex" 1732238453 54724 f1098413624e3ce90414f8692275884f ""
+  "ensayo.aux" 1732253008 4875 24eb9a84847348645d56a9793dee164c "pdflatex"
+  "ensayo.tex" 1732253001 57486 1b46f48678083482b69bce9f6e0d036b ""
+  "ensayo.toc" 1732253008 2969 2c239ca5f0c2e18f6be19a963b0d1533 "pdflatex"
+  "f:/FPUNA-SEMESTRES/9-Noveno_Semestre/DISEÑO-DE-COMPILADORES/TP-Diseño-de-Compiladores/tokenizador-tp-compiladores/doc/ensayo.tex" 1732253001 57486 1b46f48678083482b69bce9f6e0d036b ""
   (generated)
   "ensayo.aux"
   "ensayo.log"
