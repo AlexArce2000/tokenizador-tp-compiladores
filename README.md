@@ -11,7 +11,9 @@ prueba-texto5-negativo.txt
 ````
 ### Convertir audio en texto
 Herramienta que solo transcribe audio a texto se encuentra en la carpeta audios: `audio-texto.py`
+
 ó
+
 Página 1:
 ````
 https://transcri.io/es
