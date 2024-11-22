@@ -9,21 +9,24 @@ prueba-texto3-positivo.txt
 prueba-texto4-neutral.txt
 prueba-texto5-negativo.txt
 ````
-### Convertir audio en texto 
-Página:
+### Convertir audio en texto
+Herramienta que solo transcribe audio a texto se encuentra en la carpeta audios: `audio-texto.py`
+ó
+Página 1:
 ````
 https://transcri.io/es
 ````
+Página 2:
+```
+https://app.transcribetube.com/auth/login
+```
 Luego usar chatgpt con el promt: 
 ````
 Identifica y separa los diálogos entre el Agente y el Cliente en el siguiente texto:
 
 Dame el resultado en el formato 'Agente:' y 'Cliente:'
 ```` 
-Página:
-```
-https://app.transcribetube.com/auth/login
-```
+
 ### Estructura del AFD
 La clase `AFD` representa un autómata que gestiona estados, transiciones y lexemas. Cada vez que se evalua un lexema, el AFD determina si puede pasar de un estado a otro basado en las transiciones definidas.
 
